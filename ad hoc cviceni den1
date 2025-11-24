@@ -5,3 +5,16 @@
 5. Vytvořte výstup o struktuře rok ( z datumu), mesic(z datumu), srazky v lokalita MOSNOV
 6. Lokalita,srazky dne 1.7.2015, radte sestupne dle srazky
 7. Počet datumů v lokalita TURANY, kdy maximalni_teplota > 0, srazky = 0
+
+8. Maximum z maximalni_teplota, minimum z maximalni_teplota v roce 2015
+9. Datumy, kdy v lokalita RUZYNE byly srazky nad 100
+10. Unikatni roky, kdy v lokalite RUZYNE byly srazky nad 100
+11. Unikatni roky, kdy v lokalita RUZYNE nebo MOSNOV byly srazky nad 50
+12. Prumerne srazky v lokalita MOSNOV v mesicich 6 nebo 7 A letech 2015 nebo 2016
+13. Vypsat rok,mesic,den, srazky v lokalita MOSNOV
+14. Počet datumů, kdy maximalni_teplota v MOSNOV byla méně jak 0
+15. Počet datumů, kdy v lokalita MOSNOV byla maximalni teplota více jak 20 a méně jak 30
+16. Počet datumů, kdy ve sloupci srazky nebyly null a lokalita byla MOSNOV
+17. Seřaďte a vypište sestupně datumy, ve kterých byly v lokalita MOSNOV srazky nad 50
+
+18. Vypište lokalita,datum,srazky pro rok 2015, mesice 7 nebo 8, seradte vystup dle srazky sestupne
