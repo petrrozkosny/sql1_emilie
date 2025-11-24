@@ -1,0 +1,7 @@
+1. Maximalni srazky v lokalita MOSNOV
+2. Maximalni srazky v lokalita MOSNOV v mesici 4
+3. Maximalni srazky v lokalita MOSNOV v mesicich 4,5,6
+4. Maximalni srazky v lokalitách MOSNOV,RUZYNE,TURANY v mesicich 4,5,6
+5. Vytvořte výstup o struktuře rok ( z datumu), mesic(z datumu), srazky v lokalita MOSNOV
+6. Lokalita,srazky dne 1.7.2015, radte sestupne dle srazky
+7. Počet datumů v lokalita TURANY, kdy maximalni_teplota > 0, srazky = 0
