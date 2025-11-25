@@ -1,0 +1,14 @@
+Úloha 1
+Zjistěte maximální hodnotu srážek v celé tabulce.
+Úloha 2
+Vypočítejte průměrné srážky pro lokalitu MOSNOV. (Výsledek: 1.8835...)
+Úloha 3
+Kolik záznamů v tabulce nemá vyplněnou hodnotu srážek? (Výsledek: 5128)
+Úloha 4
+Vypište seznam unikátních lokalit, kde byly zaznamenány srážky vyšší než 100. Výsledek seřaďte abecedně. (Výsledek: GRAZ, KOSICE, PRAHA LIBUS, RUZYNE, SALZBURG)
+Úloha 5
+V kterých letech byly v lokalitě MOSNOV zaznamenány srážky vyšší než 50? Vypište pouze unikátní roky. (Výsledek: 2020)
+Úloha 6
+Pro lokalitu MOSNOV a rok 2015 vypište rok a měsíc každého záznamu. Sloupce pojmenujte jako rok a mesic.
+Úloha 7
+Vypište datum a hodnotu srážek pro lokalitu TURANY. Záznamy seřaďte od nejvyšších srážek po nejnižší.
