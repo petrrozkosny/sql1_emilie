@@ -1,0 +1,5 @@
+1. Spojte pod sebe lokality z data_nova a data_stara tak, aby na vystupu byly unikatni lokality z obou tabulek
+2. Spojte pod sebe všechna data (bez osetrovani duplicit) ze sloupcu lokalita,datum,srazky z data_nova a data_stara
+3. Spojte vedle sebe data_nova a dim_lokality
+4. Spojte vedle sebe data_nova a dim_lokality, nasledne spočítejte prumerne srazky dle země
+5. Spojte vedle sebe data_nova a dim_lokality, nasledne filtrujte na země = Rakousko a spočítejte prumerne srazky dle lokalita
